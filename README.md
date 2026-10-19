@@ -40,9 +40,13 @@ It has two fingers, you can grip stuff like cups with em, anything big enough th
 
 ## Files:
 CAD source files: 
+
 3D/GrabbiExtendo.f3d
+
 3D/GrabbiExtendo.step
+
 Photos used:
+
 misc/
 
 ## Credits
