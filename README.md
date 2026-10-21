@@ -45,7 +45,7 @@ It has two fingers, you can grip stuff like cups with em, anything big enough th
 | 2.5mm steel cable | 1 | $4.05 | $4.05 | [Sodimac Peru](https://www.sodimac.com.pe/sodimac-pe/articulo/113096805/Cable-de-Acero-Plastificado-para-Tendedero-2.5-mm-x-10-m/113096806) | Trigger lever to jaw mechanism |
 | Extension spring 8×31 (2 pack) | 1 | $3.46 | $3.46 | [Sodimac Peru](https://www.sodimac.com.pe/sodimac-pe/articulo/114788644/Resorte-Extension-8x31-2-unid./114788942) | Trigger lever reset mechanism |
 | PETG GRAY, filament spool | 1 | $19.79 | $19.79 | [3D CAD PERU](https://tienda3dcadperu.com/product/petg-blanco-iiid-max/) | Most printed parts |
-| Tax & shipping | | $10.00 | $64.80 | | |
+| Tax & shipping | | | $54.80 | | |
 
 ## Files:
 CAD source files: 
